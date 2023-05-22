@@ -4,9 +4,13 @@ The Email Sender Script is a simple Python script that allows you to send emails
 
 # Features
 Easy-to-use and straightforward Python script
+
 Customizable email content, including subject, body, and recipients
+
 Supports both plain text and HTML email formats
+
 Configurable SMTP server settings
+
 Suitable for both personal and professional use
 
 # Requirements
