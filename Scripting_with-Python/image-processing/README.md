@@ -4,9 +4,13 @@ The JPG to PNG Converter Script is a simple Python script that allows you to con
 
 # Features
 Converts JPG images to PNG format
+
 Supports batch conversion of multiple files
+
 Maintains image quality during the conversion process
+
 Simple and easy-to-use Python script
+
 Generates output files with the same name as the input files but with the .png extension
 
 # Requirements
