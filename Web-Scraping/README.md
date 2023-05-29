@@ -11,6 +11,7 @@ Before running the project, make sure you have the following installed:
 
 # SPecial Packege Used (Install before running code.)
 
+    - requests :- pip install requests
     - BeautifulSoup :- pip install BeautifulSoup
 
 
